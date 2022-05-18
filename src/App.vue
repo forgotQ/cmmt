@@ -7,7 +7,7 @@
 </template>
 <script type="text/javascript">
   export default {
-    name: 'app'
+    name: 'app1'
   }
 </script>
 <style lang="scss" type="text/scss" rel="stylesheet/scss">
